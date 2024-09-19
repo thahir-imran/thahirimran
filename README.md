@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thahir-imran&label=Profile%20views&color=0e75b6&style=flat" alt="thahir-imran" /> </p>
 
-- 🌱 I’m currently learning **Angular, Spring**
+- 🌱 I’m currently learning **Angular, SpringBoot**
 
 - 💬 Ask me about **HTML,CSS,SQL,Java**
 
